@@ -26,7 +26,7 @@ A task management app featuring task creation, deletion, filtering, and searchin
 
 ### 💰 **CryptoPal**
 An interactive application for exploring different dog breeds. Features advanced filters, a favorites list, and detailed breed information pages.  
-**Tech Stack:** React, Redux, The Dog API.
+**Tech Stack:** React, Cypress, Top Currencies API
 
 ---
 
