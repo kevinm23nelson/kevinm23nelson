@@ -42,7 +42,7 @@ An interactive application for exploring different dog breeds. Features advanced
 ---
 
 ## 📚 **Learning & Growth**
-Tech is an ever revolving door and I am always looking for the next thing to dive into and learn, here what I'm focusing on next:
+Tech is an ever revolving door and I am always looking for the next thing to dive into and learn, here's what I'm focusing on next:
 
 - Salesforce
 - AWS Certification
