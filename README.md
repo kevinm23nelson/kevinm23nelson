@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm Kevin, a software engineer with expertise in l
 
 ## 🚀 **Technologies & Tools**
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript and Typescript, HTML, CSS
 - **Libraries & Frameworks:** React, Redux
-- **Testing:** Cypress
+- **Testing:** Cypress, Mocha, Chai (TDD)
 - **Others:** Fetch API, Responsive Design, Global State Management
 
 ---
@@ -33,6 +33,7 @@ An interactive application for exploring different dog breeds. Features advanced
 ## 🌟 **Skills**
 
 - **JavaScript:** Writing clean, efficient, and maintainable code.
+- **TypeScript** A statically typed superset of JS, adding optional type definitions.
 - **React:** Building dynamic, interactive user interfaces.
 - **Redux:** Mastering state management like a pro.
 - **HTML & CSS:** Crafting beautiful, responsive web pages.
@@ -41,11 +42,11 @@ An interactive application for exploring different dog breeds. Features advanced
 ---
 
 ## 📚 **Learning & Growth**
-I'm continuously expanding my knowledge and skills. Here are a few areas I'm currently focusing on:
+Tech is an ever revolving door and I am always looking for the next thing to dive into and learn, here what I'm focusing on next:
 
-- Advanced React patterns and hooks
-- Performance optimization techniques
-- Design systems and component libraries
+- Salesforce
+- AWS Certification
+- Python
 
 ---
 
