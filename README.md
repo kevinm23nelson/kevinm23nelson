@@ -25,7 +25,7 @@ A task management app featuring task creation, deletion, filtering, and searchin
 **Tech Stack:** React, Redux (for global state management), Cypress (for robust testing).
 
 ### 💰 **CryptoPal**
-An interactive application for exploring different dog breeds. Features advanced filters, a favorites list, and detailed breed information pages.  
+A application for searching, favoriting, viewing details, and even buying currenices among the top 100 cryptocurrencies. Tracks live data from an API and calculates investment performance over time.
 **Tech Stack:** React, Cypress, Top Currencies API
 
 ---
