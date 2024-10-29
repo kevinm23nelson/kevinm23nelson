@@ -37,7 +37,33 @@ Version Control: Git (if you use it)
 
 ---
 
-## 💻 **Projects**
+##  **Projects**
+
+### 💻 **Terra Client Portal - Full Stack Web Application
+
+A centralized dashboard system that unifies three distinct APIs into a single, cohesive platform. The portal provides both user and admin interfaces for monitoring machine status, managing data, and tracking performance metrics.**
+Tech Stack:
+Frontend:
+
+Next.js for server-side rendering and routing
+React for UI components
+Tailwind CSS for responsive styling
+Apollo Client for GraphQL state management
+
+Backend:
+
+GraphQL API with Apollo Server for unified data orchestration
+MongoDB for persistent data storage
+Redis for caching and session management
+OAuth 2.0 for secure authentication
+
+Key Features:
+
+API Integration: Consolidates three REST APIs into a unified GraphQL endpoint
+Real-time Monitoring: Machine status tracking and performance metrics
+Role-based Access: Separate user and admin dashboards with appropriate permissions
+Data Management: Centralized interface for viewing and organizing machine data
+Authentication: Secure user authentication and session management via OAuth 2.0
 
 ### 🏥 **Utah ABA Locator**
 A website built for users in Utah seeking medical providers for children with autism spectrum disorder. Users can search providers based on various parameters, connect with providers, and learn more about autism.  
@@ -57,6 +83,7 @@ A application for searching, favoriting, viewing details, and even buying curren
 
 - **JavaScript:** Writing clean, efficient, and maintainable code.
 - **TypeScript** A statically typed superset of JS, adding optional type definitions.
+- **Next.js** Front-end framework that offers Server Side Rendering (SSR).
 - **React:** Building dynamic, interactive user interfaces.
 - **Redux:** Mastering state management like a pro.
 - **HTML & CSS:** Crafting beautiful, responsive web pages.
@@ -67,9 +94,8 @@ A application for searching, favoriting, viewing details, and even buying curren
 ## 📚 **Learning & Growth**
 Tech is an ever revolving door and I am always looking for the next thing to dive into and learn, here's what I'm focusing on next:
 
-- Salesforce
+- SQL Languages and C#
 - AWS Certification
-- Python
 
 ---
 
