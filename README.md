@@ -7,10 +7,31 @@ Welcome to my GitHub profile! I'm Kevin, a software engineer with expertise in l
 
 ## 🚀 **Technologies & Tools**
 
-- **Languages:** JavaScript and Typescript, HTML, CSS
-- **Libraries & Frameworks:** React, Redux
-- **Testing:** Cypress, Mocha, Chai (TDD)
-- **Others:** Fetch API, Responsive Design, Global State Management
+Languages: JavaScript, TypeScript, HTML, CSS
+Frontend:
+
+Frameworks & Libraries: React, Next.js
+State Management: Redux, Global State Management
+Styling: Responsive Design
+
+Backend:
+
+Database: MongoDB
+API: GraphQL
+Server: Apollo Server
+
+
+Testing:
+
+End-to-End: Cypress
+Unit Testing: Mocha, Chai
+Methodology: TDD
+
+
+Development Tools:
+
+API Integration: Fetch API
+Version Control: Git (if you use it)
 
 ---
 
