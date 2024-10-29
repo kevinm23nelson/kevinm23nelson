@@ -42,7 +42,9 @@ Version Control: Git (if you use it)
 ### 💻 Terra Client Portal - Full Stack Web Application
 
 A centralized dashboard system that unifies three distinct APIs into a single, cohesive platform. The portal provides both user and admin interfaces for monitoring machine status, managing data, and tracking performance metrics.**
+
 Tech Stack:
+
 **Frontend:**
 
 Next.js for server-side rendering and routing
