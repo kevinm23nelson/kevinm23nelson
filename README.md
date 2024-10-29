@@ -35,7 +35,7 @@ Unit Testing: Mocha, Chai
 Methodology: TDD
 
 
-*Development Tools:*
+**Development Tools:**
 
 CI/CD: Github Actions
 
