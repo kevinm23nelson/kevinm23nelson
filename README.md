@@ -39,31 +39,23 @@ Version Control: Git (if you use it)
 
 ##  **Projects**
 
-### 💻 **Terra Client Portal - Full Stack Web Application
+### 💻 Terra Client Portal - Full Stack Web Application
 
 A centralized dashboard system that unifies three distinct APIs into a single, cohesive platform. The portal provides both user and admin interfaces for monitoring machine status, managing data, and tracking performance metrics.**
 Tech Stack:
-Frontend:
+**Frontend:**
 
 Next.js for server-side rendering and routing
 React for UI components
 Tailwind CSS for responsive styling
 Apollo Client for GraphQL state management
 
-Backend:
+**Backend:**
 
 GraphQL API with Apollo Server for unified data orchestration
 MongoDB for persistent data storage
 Redis for caching and session management
 OAuth 2.0 for secure authentication
-
-Key Features:
-
-API Integration: Consolidates three REST APIs into a unified GraphQL endpoint
-Real-time Monitoring: Machine status tracking and performance metrics
-Role-based Access: Separate user and admin dashboards with appropriate permissions
-Data Management: Centralized interface for viewing and organizing machine data
-Authentication: Secure user authentication and session management via OAuth 2.0
 
 ### 🏥 **Utah ABA Locator**
 A website built for users in Utah seeking medical providers for children with autism spectrum disorder. Users can search providers based on various parameters, connect with providers, and learn more about autism.  
