@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Kevin, a software engineer with expertise in l
 
 Languages: JavaScript, TypeScript, HTML, CSS
 
-*Frontend:* 
+**Frontend:** 
 
 Frameworks & Libraries: React, Next.js
 
@@ -17,7 +17,7 @@ State Management: Redux, Global State Management
 
 Styling: Responsive Design
 
-*Backend:* 
+**Backend:** 
 
 Database: MongoDB
 
@@ -26,7 +26,7 @@ API: GraphQL
 Server: Apollo Server
 
 
-*Testing:*
+**Testing:**
 
 End-to-End: Cypress
 
